@@ -1,0 +1,42 @@
+{
+  "brand": "Rouli",
+  "tagline": "Mobilité électrique, simplement.",
+  "brief": "Rouli is a shared e-bike and e-scooter rental service in Monastir. Reserve free online, pick up at a local agency, pay on site. The identity should feel electric, light, local, simple and trustworthy — closer to a calm local service than a generic mobility app.",
+  "adjectives": ["electric", "light", "local", "simple", "trustworthy"],
+  "criteria": "Success: distinct from generic mobility marks, recognisable at 16 px, works in one colour, and feels calm, local and low-friction.",
+  "mockups": ["app-icon", "website", "social", "favicon-tab", "signage", "business-card"],
+  "nav": ["Vélos", "Trottinettes", "Agences", "À propos"],
+  "brand_color": "#00FF40",
+  "tile_color": "#04240C",
+  "greyscale": false,
+  "final": true,
+  "designer": "Rouli identity",
+  "round": 3,
+  "concepts": [
+    {
+      "name": "Grounded",
+      "symbol": "../exports/symbol/rouli-symbol-mono-00701c.svg",
+      "lockup": "../exports/horizontal/rouli-horizontal-mono-00701c.svg",
+      "stacked": "../exports/stacked/rouli-stacked-mono-00701c.svg",
+      "avatar": "../exports/symbol/rouli-symbol-app-icon.svg",
+      "symbol_on_tile": "../exports/symbol/rouli-symbol-app-icon.svg",
+      "symbol_on_dark": "../exports/symbol/rouli-symbol-mono-00ff40.svg",
+      "lockup_on_dark": "../exports/horizontal/rouli-horizontal-mono-00ff40.svg",
+      "stacked_on_dark": "../exports/stacked/rouli-stacked-mono-00ff40.svg",
+      "idea": "A wheel grounded by its flat contact patch — mobility that stays local.",
+      "rationale": [
+        "The flat patch turns a familiar wheel into a place: Monastir, not a generic app.",
+        "The hub repeats in the o, so the symbol and wordmark read as one system.",
+        "Built on one outer radius, one inner radius and one hub; the small cut keeps the idea at 16 px.",
+        "Electric green is held for dark surfaces, where it has contrast and charge."
+      ]
+    }
+  ],
+  "recommendation": "Grounded — the most coherent at header and app-icon sizes, and the clearest fit for a calm, local rental service. The flat contact patch and the hub are the ownable details.",
+  "next_steps": [
+    "Use the compact lockup in the app; the horizontal in wide spaces.",
+    "Keep the flat contact patch — never crop it.",
+    "Use the small cut below 24 px.",
+    "Run a trademark search before launch."
+  ]
+}
